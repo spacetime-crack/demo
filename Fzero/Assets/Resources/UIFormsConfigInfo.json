@@ -1,0 +1,22 @@
+﻿{
+  "ConfigInfo": [
+    { "Key": "本配置文件说明" },
+
+    {
+      "Key": "Loading",
+      "Value": "UIPrefabs\\UI_Form\\Loading"
+    },
+    {
+      "Key": "heroHead",
+      "Value": "UIPrefabs\\UI_Form\\heroHead"
+    },
+
+
+
+
+    {
+      "Key": "Start",
+      "Value": "UIPrefabs\\UI_Form\\Start"
+    }
+  ]
+}
